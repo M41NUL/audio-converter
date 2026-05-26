@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: audio-converter
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    envVars:
+      - key: PORT
+        value: 3000
+      - key: YT_COOKIES
+        sync: false
