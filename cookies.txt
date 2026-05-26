@@ -1,0 +1,5 @@
+# Netscape HTTP Cookie File
+# https://curl.se/docs/http-cookies.html
+# Add your YouTube cookies below
+# Export using browser extension: "Get cookies.txt LOCALLY"
+
